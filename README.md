@@ -4,7 +4,7 @@
 
 
 # 代码部分
->主要代码在 **new-branch**这个分支中， **代码部分主要是借鉴这些开源的库**
+>主要代码在 **simulation code**这个分支中， **代码部分主要是借鉴这些开源的库**
 > - （https://github.com/chaotictoejam/VANETTutorials.git）
 > 
 > - （https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp.git）
